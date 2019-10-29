@@ -1,0 +1,12 @@
+html,body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-image: url(images/background_main.png);
+}
+.container {
+    margin: 0 12.5vw;
+}
